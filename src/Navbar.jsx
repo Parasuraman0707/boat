@@ -12,7 +12,9 @@ const Navbar = () => {
       <img className="begining" src={img1} alt="logo" />
       <div className="underline1">Parasuraman</div>
       <div className="underline2">SAKTHIBALA</div>
-      <div className="underline3">corporate orders</div>
+      {/* <div className="underline3">corporate orders</div>
+      <div className="underline">gifting store</div> */}
+       <div className="underline3">corporate orders</div>
       <div className="underline">gifting store</div>
       <select name="more" id="" className="moree">
         <option value="more">More</option>
