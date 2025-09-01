@@ -1,0 +1,16 @@
+.ready{
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(250, 217, 33);
+    width: 1330px;
+    top: 20px;
+    /* border: 1px solid #000000; */
+    /* margin-bottom: 20px; */
+}
+.to{
+    color: red;
+}
+.too{
+    color: blue;
+}

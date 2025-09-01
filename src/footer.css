@@ -1,0 +1,75 @@
+.imagefooterer{
+    width: 200px;
+    height: 200px;
+    /* border: 1px solid red; */
+    margin-bottom: 20px;
+}
+.mainfooter{
+    /* border: 2px solid green; */
+    /* margin-bottom: 20px; */
+    display: flex;
+}
+.texter{
+    display: flex;
+    margin-left: 70px;
+}
+.imagefooter{
+    /* border: 2px solid orange; */
+    margin-top: 250px;
+    background-color: rgba(188, 220, 231, 0.384);
+}
+.secondfooter2{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.secondfooter3{
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.secondfooter4{
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.foott{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+}
+.lastfooter{
+       background-color: rgba(184, 216, 226, 0.288);
+/* gap: 20px; */
+}
+.lastfooter_text{
+    text-align: center;
+    font-size: large;
+}
+.lastfooter_text1{
+    /* border: 2px solid red; */
+    text-align: center;
+    font-size: medium;
+margin-top: 30px;
+font-weight: 100;
+}
+.lastfooter_text12{
+    /* border: 2px solid red; */
+    text-align: center;
+    font-size: small;
+color: grey;
+margin-top: 30px;
+
+}
+.lastfooter_text13{
+    /* border: 2px solid red; */
+    text-align: center;
+    margin-top: 30px;
+    font-size: small;
+color: grey;
+
+}
+.lastfooter_text14{
+    /* border: 2px solid red; */
+    text-align: center;
+color: grey;
+
+    font-size: small;
+
+}

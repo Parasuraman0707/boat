@@ -1,0 +1,115 @@
+.begining{
+    width: 100px;
+}
+/* nav{
+    display: flex;
+    background-color: aqua;
+} */
+
+.navbe{
+    display: flex;
+    margin-top: 10px;
+    gap: 35px;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    width: 1330px;
+    height:70px;
+    z-index: 2;
+}
+
+.editsearch{
+    margin-left: 52px;
+    margin-top: 28px;
+    position: absolute;
+    z-index: 1;
+}
+
+.underline2:hover::before{
+    content: "__________________";
+    position: absolute;
+    color: orange;
+       
+
+}
+.underline1:hover::before{
+    content: "________";
+    position: absolute;
+    color: orange;
+       
+
+}
+.underline:hover::before{
+    content: "__________";
+    position: absolute;
+    color: orange;
+       
+
+}
+.underline3:hover::before{
+    content: "______________";
+    position: absolute;
+    color: orange;
+       
+
+}
+.underline{
+    margin-top: 25px;
+    font-size: large;
+}
+.underline1{
+    margin-top: 25px;
+    font-size: large;
+}
+.underline2{
+    margin-top: 25px;
+    font-size: large;
+}
+.underline3{
+    margin-top: 25px;
+    font-size: large;
+}
+.underline:hover{
+    font-weight: 900;
+}
+.underline1:hover{
+    font-weight: 900;
+}
+.underline2:hover{
+    font-weight: 900;
+}
+.underline3:hover{
+    font-weight: 900;
+}
+/* .under{
+    text-decoration: underline;
+
+} */
+.moree{
+    width: 63px;
+    height: 30px;
+    margin-top: 20px;
+    border: 1px solid white;
+    font-size: large;
+}
+.inpp{
+    width: 300px;
+    height: 30px;
+    margin-left: 50px;
+    padding-left: 20px;
+    margin-top: 20px;
+    border: 1px solid white;
+    box-shadow: 0px 0px 2px grey;
+    color: rgb(92, 89, 89); 
+    position: relative;
+    border-radius: 25px;
+    background-color: #f5f6f5;
+}
+.icc{
+    margin-left: 40px;
+    /* margin-top: 20px; */
+    /* border: 2px solid rebeccapurple; */
+}
+.icc1{
+margin-left: 20px;
+}
