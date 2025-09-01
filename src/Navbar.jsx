@@ -10,7 +10,7 @@ const Navbar = () => {
     <nav className="navbe">
 
       <img className="begining" src={img1} alt="logo" />
-      <div className="underline1">categories</div>
+      <div className="underline1">Parasuraman</div>
       <div className="underline2">boAt personalisation</div>
       <div className="underline3">corporate orders</div>
       <div className="underline">gifting store</div>
